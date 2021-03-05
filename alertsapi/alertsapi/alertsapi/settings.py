@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'instagram',
         'USER': 'root',
-        'PASSWORD': '34340012',
+        'PASSWORD': '',
         'HOST':'localhost',
         'PORT':'3300',
     }
